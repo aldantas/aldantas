@@ -1,7 +1,7 @@
 <p align="center"><img height="350px" src="https://c.tenor.com/v6sljhjORDQAAAAC/the-office-mose-dwight.gif" /></p>
 
 ### Hello  🖖
-##### I am a Brazilian :brazil: computer scientist and a PhD candidate at the [Federal University of Paraná](http://www.prppg.ufpr.br/ppginformatica/?lang=pb). My research is concerned on powering optimization algorithms with machine learning techniques. I am currently investigating reinforcement learning based hyper-heuristics.
+#### I am a Brazilian :brazil: computer scientist and a PhD candidate at the [Federal University of Paraná](http://www.prppg.ufpr.br/ppginformatica/?lang=pb). My research is concerned on powering optimization algorithms with machine learning techniques. I am currently investigating reinforcement learning based hyper-heuristics.
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aldantas@protonmail.com)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285f4?style=for-the-badge&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com.br/citations?user=cLQHzrMAAAAJ)](https://scholar.google.com.br/citations?user=cLQHzrMAAAAJ)
